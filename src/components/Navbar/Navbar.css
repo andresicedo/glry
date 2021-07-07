@@ -1,0 +1,16 @@
+.navbarContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.navbarLeft {
+    font-size: 45px;
+    margin-left: 2%;
+}
+
+.navbarRight {
+    display: flex;
+    flex-direction: row;
+    margin-right: 2%;
+}
