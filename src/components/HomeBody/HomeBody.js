@@ -12,7 +12,7 @@ export default function HomeBody() {
             <div>
                 <img src={homeImg} alt="site logo"/>
             </div>
-            <p style={{fontSize: '30px'}}>Your Perspective.</p>
+            <p style={{fontSize: '30px'}}>Your Perspective. Your <strong style={{fontSize: '45px'}}>GLRY</strong>.</p>
         </div>
     )
 }

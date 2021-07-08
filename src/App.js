@@ -4,6 +4,8 @@ import Home from './pages/Home/Home';
 import UserProfile from './pages/UserProfile/UserProfile';
 
 function App() {
+  
+
   return (
     <div className="App">
       <Router>
