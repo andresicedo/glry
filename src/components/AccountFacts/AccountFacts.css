@@ -1,0 +1,25 @@
+.username {
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
+    font-weight: bold;
+}
+
+.userAvatar {
+    width: 20vh !important;
+    height: 20vh !important;
+    background-size: contain;
+}
+
+.username p {
+    margin-top: 24px;
+    margin-left: 9px;
+}
+
+.facts {
+    display: flex;
+    flex-direction: row;
+    font-size: 21px;
+    margin-left: 3px;
+    margin-top: -24px;
+}

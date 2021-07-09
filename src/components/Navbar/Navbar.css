@@ -12,5 +12,6 @@
 .navbarRight {
     display: flex;
     flex-direction: row;
-    margin-right: 2%;
+    margin-right: 5px;
+    margin-top: 12px;
 }

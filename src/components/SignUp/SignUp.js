@@ -1,11 +1,13 @@
 import React from 'react'
+import { Button } from '@material-ui/core'
+import './SignUp.css';
 
 export default function SignUp() {
     return (
         <div>
-            <button>
+            <Button className="signUpButton">
                 Sign Up
-            </button>
+            </Button>
         </div>
     )
 }
